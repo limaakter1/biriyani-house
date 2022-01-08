@@ -24,6 +24,9 @@ nav > ul {
   padding-bottom: 20px;
   margin-bottom: 0;
 }
+.header {
+  text-align: center;
+}
 .top-part {
   background-color: bisque;
   padding-top: 40px;
